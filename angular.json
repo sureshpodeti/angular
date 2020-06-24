@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "counter-practise"
+    }
+  },
+  "defaultProject": "counter-practise",
+  "cli": {
+    "analytics": false
+  }
 }
